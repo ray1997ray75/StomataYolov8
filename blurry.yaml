@@ -1,0 +1,9 @@
+
+train : ./BlurryData/images/train/
+val : ./BlurryData/images/val/
+test : ./BlurryData/images/test/
+
+
+nc: 5
+
+names : ["complete", "blurry.complete"  ]
